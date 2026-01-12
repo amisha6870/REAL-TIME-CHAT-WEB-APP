@@ -1,16 +1,5 @@
-# React + Vite
+Developed a real-time chat web application enabling instant communication between users using Socket.io for real-time messaging. Built the backend with Node.js and REST APIs to handle user authentication, message management, and server-side logic, while MongoDB was used for efficient data storage and retrieval.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Designed a responsive and interactive frontend using HTML, CSS, and JavaScript, providing smooth real-time message updates without page refresh. Implemented features such as user login, live chat rooms, message broadcasting, and real-time notifications.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Focused on event-driven architecture, real-time communication, and full-stack development concepts. This project strengthened skills in backend development, database integration, and building scalable real-time web applications.
